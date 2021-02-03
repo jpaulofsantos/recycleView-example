@@ -1,1 +1,1 @@
-# recycleView-example
+# Recycle View application example.
